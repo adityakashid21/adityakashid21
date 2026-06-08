@@ -1,7 +1,9 @@
 <!-- ===== ANIMATED HEADER BANNER ===== -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,50:412991,100:0A66C2&height=220&section=header&text=Aditya%20Kashid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20React%20Native%20%26%20Node.js%20%C2%B7%20AI%20Systems%20Architect&descAlignY=58&descSize=18" alt="header"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Aditya%20Kashid&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
+
+<p align="center">
+  <b>Full Stack Engineer · React Native &amp; Node.js · AI Systems Architect</b>
+</p>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
@@ -148,7 +150,7 @@ An interactive mock-interview and resume-building platform for a US-based client
 </p>
 
 <!-- ===== ANIMATED FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:412991,100:8E75B2&height=120&section=footer&text=Let's%20build%20something%20amazing%20together!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" alt="footer"/>
 
 <p align="center">
   <i>📫 <a href="mailto:aadityakashid21@gmail.com">aadityakashid21@gmail.com</a> · Open to remote roles & collaborations.</i>
