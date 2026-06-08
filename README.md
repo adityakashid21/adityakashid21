@@ -1,13 +1,16 @@
-<h1 align="center">Hi, I'm Aditya Kashid 👋</h1>
+<!-- ===== ANIMATED HEADER BANNER ===== -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,50:412991,100:0A66C2&height=220&section=header&text=Aditya%20Kashid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20React%20Native%20%26%20Node.js%20%C2%B7%20AI%20Systems%20Architect&descAlignY=58&descSize=18" alt="header"/>
+</a>
 
+<!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
-  <b>Full Stack Engineer · React Native & Node.js · AI Systems Architect</b>
+  <a href="https://github.com/your-handle">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E75B2&center=true&vCenter=true&width=600&lines=Building+production+cross-platform+apps;React+Native+%2B+TypeScript+%2B+Node.js;Architecting+AI-powered+systems+%F0%9F%A4%96;Shipping+to+the+Play+Store+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center">
-  📍 Nashik, India (Open to Remote / Relocation)
-</p>
-
+<!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
   <a href="mailto:aadityakashid21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,52 +18,48 @@
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
----
+<!-- ===== PROFILE VIEWS + LOCATION ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-handle&label=Profile%20Views&color=8E75B2&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_Nashik,_India-Open_to_Remote_/_Relocation-412991?style=flat-square" alt="Location"/>
+</p>
+
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" alt="divider"/>
 
 ## 🚀 About Me
 
-Performance-driven Full Stack & Mobile Engineer with **2+ years** of hands-on experience building, scaling, and deploying production-grade cross-platform apps for international clients across the **US and Australia**. I handle the entire software lifecycle — from database architecture and custom AI integrations to automated app store deployment — with a focus on writing modular, clean code that optimizes system performance and business workflows.
+```typescript
+const aditya = {
+  role: "Full Stack & Mobile Engineer",
+  experience: "2+ years building production cross-platform apps",
+  clients: ["🇺🇸 United States", "🇦🇺 Australia", "🇩🇿 Algeria"],
+  currentlyAt: "Mobile Application Engineer Intern @ Mathionix Technologies",
+  focus: ["LLM App Architecture", "n8n Agent Workflows", "Prompt Engineering"],
+  education: "B.Tech IT @ Uka Tarsadia University (CGPA 8.15)",
+  motto: "Modular, clean code that moves the business forward.",
+};
+```
 
-- 🔭 Currently building production mobile apps as a **Mobile Application Engineer Intern @ Mathionix Technologies**
-- 🤖 Deep into **LLM app architecture, n8n agent workflows & prompt engineering**
-- 📱 Shipped multiple apps to the **Google Play Store** end-to-end
-- 🎓 B.Tech in Information Technology, Uka Tarsadia University (CGPA 8.15)
+<br/>
 
----
-
+<!-- ===== ANIMATED TECH STACK ICONS ===== -->
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,firebase,supabase,git,github,githubactions,postman,figma&theme=dark&perline=6" alt="tech stack"/>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/n8n_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth"/>
+</p>
 
-**Cloud & Databases**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI & Prompt Engineering**
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Architecture-412991?style=flat-square&logo=openai&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-326CE5?style=flat-square&logo=circleci&logoColor=white)
-
----
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" alt="divider"/>
 
 ## 💼 Experience
 
@@ -71,9 +70,30 @@ Performance-driven Full Stack & Mobile Engineer with **2+ years** of hands-on ex
 - Optimized client-side state with Context API and AsyncStorage, introducing smart local caching that **cut network overhead by 30%**.
 - Collaborated directly with US and Australian stakeholders to translate business specs into fast-tracked technical milestones.
 
----
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" alt="divider"/>
 
-## 🌟 Featured Projects
+## 💻 Personal Project
+
+### 🎓 Klassy AI — *Full-Stack Product (Independent)*
+`React Native` · `React.js` · `Node.js` · `Firebase` · `Gemini API`
+
+A self-built, dual-platform ecosystem automating attendance, operational metrics, and billing for institutes.
+- Built **AI-powered pipelines** using the Gemini API to generate student metrics and predict performance drop-offs.
+- Engineered Node.js/Express admin microservices keeping web dashboards in sync with the mobile frontend.
+
+<br/>
+
+## 🏢 Internship Projects
+
+### 🩺 ELLEBEO — *Healthcare & Wellness Marketplace (Australia)*
+`React Native` · `TypeScript` · `React Navigation` · `REST APIs` · `Android` · `iOS`
+
+An Australian healthcare and wellness marketplace connecting **Clients, Doctors, and Technicians** across web and mobile. Worked as a React Native Frontend Engineer across all three user roles.
+- Built end-to-end **appointment & booking workflows** — requests, approvals, rescheduling, cancellations, and completion.
+- Developed **Doctor** modules (patient management, consultations, scheduling, calendar, revenue tracking, onboarding & verification) and **Technician** workflows (onboarding, endorsements, portfolio, travel zones, wallet, scheduling).
+- Enhanced **Client** experiences — booking, gifting flows, payments, notifications, and service discovery.
+- Drove **web-to-mobile feature parity**, reusable UI components, and optimized state management for long-term maintainability.
 
 ### ⚽ Goal Connect — *Production App*
 `React Native` · `TypeScript` · `Firebase` · `REST APIs`
@@ -82,13 +102,6 @@ A high-traffic football networking ecosystem with live production adoption in Al
 - Designed robust **Role-Based Access Control (RBAC)** for secure data isolation across athletes, managers, and admins.
 - Optimized Firestore aggregation routines, significantly reducing query round-trips and indexing latency.
 
-### 🎓 Klassy AI — *Full-Stack Product*
-`React Native` · `React.js` · `Node.js` · `Firebase` · `Gemini API`
-
-A dual-platform ecosystem automating attendance, operational metrics, and billing for institutes.
-- Built **AI-powered pipelines** using the Gemini API to generate student metrics and predict performance drop-offs.
-- Engineered Node.js/Express admin microservices keeping web dashboards in sync with the mobile frontend.
-
 ### 🇺🇸 Going Greek — *US Client Project*
 `React Native` · `Firebase Auth` · `OAuth 2.0`
 
@@ -96,7 +109,8 @@ An interactive mock-interview and resume-building platform for a US-based client
 - Developed complete mock-interview modules and resume-building systems.
 - Configured **Google Play Integrity** checks and OAuth flows, mitigating client-side script vectors.
 
----
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" alt="divider"/>
 
 ## 🎖️ Certifications & Honors
 
@@ -104,21 +118,38 @@ An interactive mock-interview and resume-building platform for a US-based client
 - 📜 **Prompt Engineering Certification (Simplilearn)** — Context Anchoring, Few-Shot prompting, and Chain-of-Thought reasoning for robust LLM solutions.
 - 🚀 **App Store Delivery** — Managed full Google Play release cycles, handling credential configuration, SHA-1 fingerprints, and app integrity setups.
 
----
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" alt="divider"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E75B2&icon_color=0A66C2" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-handle&theme=radical&hide_border=true&background=0D1117&ring=8E75B2&fire=0A66C2&currStreakLabel=8E75B2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-handle&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E75B2&langs_count=8" alt="Top Languages" />
 </p>
 
----
+<!-- ===== TROPHY DISPLAY ===== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-handle&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</p>
+
+<!-- ===== CONTRIBUTION SNAKE ANIMATION ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-handle/your-handle/output/snake.svg" alt="Contribution Snake"/>
+</p>
+
+<!-- ===== ACTIVITY GRAPH ===== -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-handle&theme=react-dark&bg_color=0D1117&color=8E75B2&line=0A66C2&point=ffffff&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<!-- ===== ANIMATED FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:412991,100:8E75B2&height=120&section=footer&text=Let's%20build%20something%20amazing%20together!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
 
 <p align="center">
-  <i>📫 Reach me at <a href="mailto:aadityakashid21@gmail.com">aadityakashid21@gmail.com</a> · Open to remote roles and collaborations.</i>
+  <i>📫 <a href="mailto:aadityakashid21@gmail.com">aadityakashid21@gmail.com</a> · Open to remote roles & collaborations.</i>
 </p>
